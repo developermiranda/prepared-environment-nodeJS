@@ -7,7 +7,7 @@
 Instalar as extensões:
 
 * **Dracula Official**:  dar um reload, depois em preferências, color theme, escrevo Dracula e dou um enter, que o esquema ficará selecionado
-* **FiraCode**:  ir no google chrome buscar sobre a fonte no github: https://github.com/tonsky/FiraCode , ir mais abaixo em Solution e clique no Download![image-20191212222845795](/home/daniel/.config/Typora/typora-user-images/image-20191212222845795.png)
+* **FiraCode**:  ir no google chrome buscar sobre a fonte no github: https://github.com/tonsky/FiraCode , ir mais abaixo em Solution.
 
 Depois de baixada, dar dois cliques (Linux e Windows) para instalar a font ou copiar para o caminho de fontes do sistema operacional
 
