@@ -1,4 +1,7 @@
 **Ambiente de desenvolvimento** 
+Verificar permissão ao grupo Sudoews
+
+Adicionar aqui GIT, CURL 
 
 * **Primeiro Instalar o VSCode**
 
