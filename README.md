@@ -2,6 +2,12 @@
 
 Este artigo tem como objetivo auxiliar o processo de preparação do ambiente de desenvolvimento da stack NodeJS em backend, frontend e mobile.
 
+### Em sistemas Linux ###
+
+Em sistemas linux adicione o seu usuário normal ao grupo de sudoers para que ele possa ter pemissões de root. Execute o seguinte comando:
+
+` sudo usermod -aG sudo seunomedeusuario `
+
 
 ------
 
