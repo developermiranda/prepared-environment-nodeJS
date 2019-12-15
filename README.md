@@ -1,9 +1,8 @@
 **Ambiente de desenvolvimento** 
 
+*Verificar permissão ao grupo Sudoers
 
-Verificar permissão de usuário ao grupo Sudoers
-
-Adicionar aqui GIT, CURL 
+*Instalar o GIT, CURL 
 
 * **Primeiro Instalar o VSCode**
 
@@ -80,6 +79,12 @@ RockeseatJS
 **TEMA E FONTE NO TERMINAL** (OH MY ZSH)
 
 Dracula Theme (pula)
+
+Instalando o zsh
+
+```
+sudo apt install zsh
+```
 
 **Oh my Zsh,** acessar o link https://ohmyz.sh/ e copiar o endereço para instalar sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
