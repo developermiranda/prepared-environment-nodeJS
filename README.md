@@ -1,5 +1,7 @@
 **Ambiente de desenvolvimento** 
-Verificar permissão ao grupo Sudoews
+
+
+Verificar permissão de usuário ao grupo Sudoers
 
 Adicionar aqui GIT, CURL 
 
