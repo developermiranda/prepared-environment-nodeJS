@@ -23,8 +23,9 @@ Para instalar o GIT digite em seu terminal a seguinte linha de comando:
 
 ### Baixar e instalar o VSCode ###
 
-Basta acessar o link abaixo e escolher o instalador de acordo com o seu sistema operacional:
-[VSCode] (https://code.visualstudio.com/)
+Basta acessar o link abaixo e escolher o instalador de acordo com o seu sistema operacional: 
+
+Este site foi construído usando [VSCode](https://code.visualstudio.com/)
 
 
 
