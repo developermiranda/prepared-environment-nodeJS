@@ -8,7 +8,7 @@ Adicione o seu usuário normal ao grupo de sudoers para que ele possa ter pemiss
 
 ` sudo usermod -aG sudo seunomedeusuario `
 
-### Instalar o CURL (abreviaçaõ de Client URL, utilizado para transferência de dados em que verificar a conectividade com a URL)
+### Instalar o CURL (abreviação de Client URL, utilizado para transferência de dados em que verificar a conectividade com a URL)
 
 Para instalar CURL digite em seu terminal a seguinte linha de comando:
 
@@ -23,9 +23,8 @@ Para instalar o GIT digite em seu terminal a seguinte linha de comando:
 
 ### Baixar e instalar o VSCode ###
 
-Basta acessar o link abaixo e escolher o instalador de acordo com o seu sistema operacional
-
-https://code.visualstudio.com/
+Basta acessar o link abaixo e escolher o instalador de acordo com o seu sistema operacional:
+[VSCode] (https://code.visualstudio.com/)
 
 
 
