@@ -1,21 +1,36 @@
 ## Preparando o ambiente de desenvolvimento na stack NodeJS
 
-Este artigo tem como objetivo auxiliar o processo de preparação do ambiente de desenvolvimento da stack NodeJS em backend, frontend e mobile.
+Este artigo tem como objetivo auxiliar o processo de preparação do ambiente de desenvolvimento na stack NodeJS em backend, frontend e mobile.
 
 ### Em sistemas Linux ###
 
-Em sistemas linux adicione o seu usuário normal ao grupo de sudoers para que ele possa ter pemissões de root. Execute o seguinte comando:
+Adicione o seu usuário normal ao grupo de sudoers para que ele possa ter pemissões de root. Execute o seguinte comando:
 
 ` sudo usermod -aG sudo seunomedeusuario `
 
+### Instalar o CURL (abreviaçaõ de Client URL, utilizado para transferência de dados em que verificar a conectividade com a URL)
 
-------
+Para instalar CURL digite em seu terminal a seguinte linha de comando:
 
-**Ambiente de desenvolvimento** 
+` apt install curl `
 
-*Verificar permissão ao grupo Sudoers
 
-*Instalar o GIT, CURL 
+### Instalar GIT (Sistema de controle de versões distribuído)
+
+Para instalar o GIT digite em seu terminal a seguinte linha de comando:
+
+` apt install git `
+
+### Baixar e instalar o VSCode ###
+
+Basta acessar o link abaixo e escolher o instalador de acordo com o seu sistema operacional
+
+https://code.visualstudio.com/
+
+
+
+---
+
 
 * **Primeiro Instalar o VSCode**
 
